@@ -6,7 +6,8 @@
 `全部课程` `Giorgio Grisetti` <https://sites.google.com/dis.uniroma1.it/grisetti/teaching> 
 
 `机器人` `激光SLAM` `状态估计` `里程计标定等` <http://www.dis.uniroma1.it/~grisetti/teaching/lectures-ls-slam-master/web/>  (较老)
-`四旋翼` `状态估计` `控制` <http://www.dis.uniroma1.it/~venditt/eir/>`SLAM` `Andrew Davison` `Robotic Course`<https://www.doc.ic.ac.uk/~ajd/Robotics/index.html> 
+`四旋翼` `状态估计` `控制` <http://www.dis.uniroma1.it/~venditt/eir/>`
+SLAM` `Andrew Davison` `Robotic Course`<https://www.doc.ic.ac.uk/~ajd/Robotics/index.html> 
 
 ##### 概率机器人:star: 
 
@@ -58,7 +59,7 @@
 
 ##### 专栏和个人主页
 
-`知乎专栏` `基础算法` `移动机器人` `北理工博士` <https://zhuanlan.zhihu.com/slamTech> 
+`知乎专栏` `基础算法` `移动机器人` `北航机器人所博士` <https://zhuanlan.zhihu.com/slamTech> 
 
  `SLAM` `工程细节` `综述` <https://blog.csdn.net/heyc861221/article/details/80130876> 
 
