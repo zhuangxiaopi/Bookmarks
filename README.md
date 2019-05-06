@@ -1,6 +1,9 @@
 [TOC]
 
 ####  公开课资料
+##### USSD 使用State Estimation 当教材
+`Sensing & Estimation`: https://natanaso.github.io/ece276a/
+`Planning & Learning`: https://natanaso.github.io/ece276b/
 ##### 罗马大学机器人学课程 :star: 
 
 `全部课程` `Giorgio Grisetti` <https://sites.google.com/dis.uniroma1.it/grisetti/teaching> 
