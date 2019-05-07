@@ -1,6 +1,9 @@
 [TOC]
 
 ####  公开课资料
+#####  德国弗莱堡大学
+主要是移动机器人相关的
+``整个课程列表`` http://ais.informatik.uni-freiburg.de/teaching/
 ##### USSD 使用State Estimation 当教材
 `Sensing & Estimation`: https://natanaso.github.io/ece276a/
 
