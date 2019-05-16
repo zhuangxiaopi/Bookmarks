@@ -297,6 +297,12 @@ SLAM` `Andrew Davison` `Robotic Course`<https://www.doc.ic.ac.uk/~ajd/Robotics/i
 
 `Awesome Robotic` <https://github.com/kiloreux/awesome-robotics> 
 
+
+
+#### 练手项目
+
+[Project](./practice_project.md)
+
 #### 求职
 
 [`泡泡机器人`]( https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=2247485899&idx=1&sn=7d00729b0c467ff62933c4708615f0c9&chksm=ec10b7cfdb673ed966b285177ef157670ed5f020bd45827ac8dd6b0c945aff0c0f7843e2a6c8&mpshare=1&scene=24&srcid=0220RIjVWDGpPfrN8zsHaXFf#rd)
