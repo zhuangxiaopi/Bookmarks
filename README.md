@@ -194,16 +194,11 @@ SLAM` `Andrew Davison` `Robotic Course`<https://www.doc.ic.ac.uk/~ajd/Robotics/i
 `苏黎世联邦理工` `手眼标定` `EuRoc` `航拍激光雷达`<https://projects.asl.ethz.ch/datasets/doku.php?id=home> 
 
 `NCLT` `LIDAR` `VISION`<http://robots.engin.umich.edu/nclt/>
-##### 重建
-
 `senseFly ` `SfM` `航拍` <https://www.sensefly.com/education/datasets/> 
-
+##### 重建
 `航拍` `SfM` <http://www2.isprs.org/commissions/comm1/icwg15b/benchmark/Benchmark_Aim.html> 
 
 `RGBD` <http://introlab.github.io/rtabmap/> 
-
-`senseFly` `SfM`<https://www.sensefly.com/education/datasets/>
-
 
 #### 编程学习资源
 
