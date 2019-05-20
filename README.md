@@ -202,6 +202,7 @@ SLAM` `Andrew Davison` `Robotic Course`<https://www.doc.ic.ac.uk/~ajd/Robotics/i
 
 `RGBD` <http://introlab.github.io/rtabmap/> 
 
+`senseFly` `SfM`<https://www.sensefly.com/education/datasets/>
 
 
 #### 编程学习资源
