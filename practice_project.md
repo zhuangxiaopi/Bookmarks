@@ -6,3 +6,4 @@
 + `轨迹误差和可视化`: https://github.com/TianQi-777/TrajectoryErrorCalculationAndDrawing
 + `G-N BundleAdjustment`:https://github.com/TianQi-777/BundleAdjustmentWith_G-N
 + `ESKF`:https://github.com/je310/ESKF
++ `各类课程大作业`: https://github.com/yycho0108
