@@ -251,6 +251,7 @@ SLAM` `Andrew Davison` `Robotic Course`<https://www.doc.ic.ac.uk/~ajd/Robotics/i
 `CMU做SLAM的`<http://www.cs.cmu.edu/~kaess/> 
 
 `港科大QingTong` <http://www.qintong.xyz/> 
+`丘xiaochen` <https://www.cnblogs.com/xiaochen-qiu/p/9768949.html>
 
 #### 实验室主页
 
