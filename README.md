@@ -201,6 +201,7 @@ SLAM` `Andrew Davison` `Robotic Course`<https://www.doc.ic.ac.uk/~ajd/Robotics/i
 
 `RGBD` <http://introlab.github.io/rtabmap/> 
 
+`SLAM数据集Github` <https://github.com/youngguncho/awesome-slam-datasets>
 #### 编程学习资源
 
 ##### c++
