@@ -3,6 +3,9 @@
 + Robotics: https://arxiv.org/list/cs.RO/recent
 + Coding: https://github.com/jackfrued/Python-100-Days
 ####  公开课资料
+##### 密歇根大学
+`EECS568 Mobile-Robotic`: http://robots.engin.umich.edu/mobilerobotics/
+
 #####  德国弗莱堡大学
 主要是移动机器人相关的
 ``整个课程列表`` http://ais.informatik.uni-freiburg.de/teaching/
