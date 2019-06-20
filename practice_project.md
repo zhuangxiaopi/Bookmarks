@@ -7,3 +7,4 @@
 + `G-N BundleAdjustment`:https://github.com/TianQi-777/BundleAdjustmentWith_G-N
 + `ESKF`:https://github.com/je310/ESKF
 + `各类课程大作业`: https://github.com/yycho0108
++ `SensorFusion&BASimulation`: http://www.telesens.co/2017/04/30/sensor-fusion-part-2-combining-gyro-accel-data/
