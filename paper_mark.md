@@ -12,5 +12,7 @@
 `VINS中各种特征分析`[Guoquan Huang可观性分析](https://arxiv.org/pdf/1805.05876.pdf)
 
 `BAD SLAM`[基于BA的RGBD-SLAM](https://github.com/ETH3D/badslam)
+
+`Mola`[A Modular Optimization framework for Localization and mApping](https://github.com/MOLAorg/mola/)
 #### 大佬推荐的
 `+ VIO` Visual-Inertial Mapping with Non-Linear Factor Recovery[Code](https://github.com/VladyslavUsenko/basalt-mirror)
