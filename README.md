@@ -205,6 +205,8 @@ SLAM` `Andrew Davison` `Robotic Course`<https://www.doc.ic.ac.uk/~ajd/Robotics/i
 `senseFly ` `SfM` `航拍` <https://www.sensefly.com/education/datasets/> 
 
 `Eth3D` `重建` <https://www.eth3d.net/>
+
+`ETH-v4rl` <https://v4rl.ethz.ch/research/datasets-code/V4RL-Dense-Reconstruction-Dataset.html>
 ##### 重建
 `SfM` `Texureless`<https://robotik.informatik.uni-wuerzburg.de/telematics/download/SSRR2018/>
 `航拍` `SfM` <http://www2.isprs.org/commissions/comm1/icwg15b/benchmark/Benchmark_Aim.html> 
