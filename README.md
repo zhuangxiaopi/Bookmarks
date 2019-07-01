@@ -198,6 +198,8 @@ SLAM` `Andrew Davison` `Robotic Course`<https://www.doc.ic.ac.uk/~ajd/Robotics/i
 
 `NCLT` `LIDAR` `VISION`<http://robots.engin.umich.edu/nclt/>
 
+`Vision-Lidar` <https://wiki.nps.edu/pages/viewpage.action?pageId=925958215?>
+
 `senseFly ` `SfM` `航拍` <https://www.sensefly.com/education/datasets/> 
 
 `Eth3D` `重建` <https://www.eth3d.net/>
