@@ -148,18 +148,6 @@ SLAM` `Andrew Davison` `Robotic Course`<https://www.doc.ic.ac.uk/~ajd/Robotics/i
 
 `LineFeature` <https://www.zybuluo.com/lancelot-vim/note/1018544> 
 
-#### Structure from Motion
-
-##### Project
-
-`Continuous-time SfM` <https://github.com/hovren/kontiki> 
-
-##### Global方法
-
-`1dSfM` <http://www.cs.cornell.edu/projects/1dsfm/> 
-
-`RotationAveraging` <http://www.ee.iisc.ac.in/labs/cvl/research/rotaveraging/> 
-
 #### 实验室主页 
 
 `苏黎世联邦理工CVG组`  `重建` `Learning`<https://cvg.ethz.ch/publications/>  
@@ -185,6 +173,7 @@ SLAM` `Andrew Davison` `Robotic Course`<https://www.doc.ic.ac.uk/~ajd/Robotics/i
 `动手深度学习` <http://zh.gluon.ai/index.html> 
 
 #### 数据集
+`鱼眼相机标定数据集` <https://vision.in.tum.de/research/vslam/double-sphere>
 
 `激光SLAM` `较老` `采集自机器人` <http://www.rawseeds.org/home/> 
 
