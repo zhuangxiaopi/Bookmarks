@@ -1,3 +1,5 @@
+#### 贺一家的Paper List
+[paper_list](./heyijia_paper_list.md)
 #### 逛到的
 `BA2018` Bundle Adjustment Method using Sparse BFGS Solution
 
