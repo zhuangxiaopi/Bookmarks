@@ -1,5 +1,9 @@
 [TOC]
 
+#### 重点关注的组
+
+[新论文](./people2follow.md)
+
 #### SLAM&VIO资料整理
 
 [SLAM&VIO](./slam_vio_资料整理.md)
