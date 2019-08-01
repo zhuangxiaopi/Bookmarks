@@ -10,10 +10,7 @@
 
 #### MSCKF
 
-资料整理
-+ [msckf相关论文](./MSCKF 相关论文.md)
-
-+ [msckf博客](./msckf.md)
+[msckf资料](./msckf.md)
 
 #### arXiv论文
 + Robotics: https://arxiv.org/list/cs.RO/recent

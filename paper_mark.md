@@ -1,4 +1,7 @@
+[TOC]
+
 #### 1-Point RANSAC
+
 [1-Point-Ransac](./paper_list/1-point-RANSAC.md)
 #### 贺一家的Paper List
 [paper_list](./heyijia_paper_list.md)
@@ -20,3 +23,12 @@
 `Mola`[A Modular Optimization framework for Localization and mApping](https://github.com/MOLAorg/mola/)
 #### 大佬推荐的
 `+ VIO` Visual-Inertial Mapping with Non-Linear Factor Recovery[Code](https://github.com/VladyslavUsenko/basalt-mirror)
+
+
+
+#### Update Realtime
+
++ `ICRA2019-SLAM`:[ICRA2019](./paper_list/ICRA2019.md)
++ `paopaoslam-lab`:[lab](./paper_list/paopaoslam-2019-07-17-lab.md)
++ `Decoupled Rotation adn Translation`: Visual Odometry Using a Homography Formulation with Decoupled Rotation and Translation Estimation Using Minimal Solutions.
++ `SLAM-Auto-Benchmark`:Improving Repeatability of Experimentsby Automatic Evaluation of SLAM Algorithms-IROS2018
