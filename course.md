@@ -1,4 +1,6 @@
 ### SLAM 机器人相关公开课
+`Robotics`: <https://courses.cs.washington.edu/courses/cse571/16au/>
+
 
 #### 机器人学
 `Aerial Robotic Tutorial` <http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/> 
